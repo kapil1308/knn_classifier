@@ -31,10 +31,12 @@ Mitoses: 1 – 10
   - Python version used in this project: 3.5+
 	
   ### Libraries Used
-	-[Scikit-Learn](http://scikit-learn.org/stable/)
-	-[Matplotlib](https://matplotlib.org/)
-	-[Numpy](http://scikit-learn.org/stable/install.html)
-	-[Scipy](http://scikit-learn.org/stable/install.html)
+   
+   - [Scikit-Learn](http://scikit-learn.org/stable/)
+   - [Matplotlib](https://matplotlib.org/)
+   - [Numpy](http://scikit-learn.org/stable/install.html)
+   - [Scipy](http://scikit-learn.org/stable/install.html)
+
 	
 # Run
 
